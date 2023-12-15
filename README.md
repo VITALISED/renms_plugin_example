@@ -31,4 +31,4 @@ is_osx_supported=false
 ```
 
 The final product may look something like this in your file explorer.
-![Screenshot of what the directory layour should look like]("screenshot.png)
+![Screenshot of what the directory layour should look like](screenshot.png)
