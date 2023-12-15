@@ -1,0 +1,6 @@
+[submodule "renms"]
+	path = renms
+	url = https://github.com/VITALISED/renms.git
+[submodule "metadata"]
+	path = metadata
+	url = https://github.com/VITALISED/metadata.git
